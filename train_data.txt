@@ -1,0 +1,150 @@
+I am a student .	Je suis un étudiant .
+He likes to play football !	Il aime jouer au football !
+Do you speak English ?	Parlez-vous anglais ?
+We are going to the cinema .	Nous allons au cinéma .
+She is very beautiful !	Elle est très belle !
+They bought a new car .	Ils ont acheté une nouvelle voiture .
+What is your name ?	Quel est votre nom ?
+The weather is nice today .	Il fait beau aujourd'hui .
+I do not know .	Je ne sais pas .
+Look at that bird !	Regarde cet oiseau !
+Where is the library ?	Où est la bibliothèque ?
+I love eating apples .	J' aime manger des pommes .
+He runs very fast !	Il court très vite !
+Can you help me ?	Pouvez-vous m' aider ?
+The book is on the table .	Le livre est sur la table .
+She is reading a book .	Elle lit un livre .
+Why are you crying ?	Pourquoi pleures-tu ?
+This is a great movie !	C' est un super film !
+I need some water .	J' ai besoin d' eau .
+Do they like coffee ?	Aiment-ils le café ?
+My dog is very smart .	Mon chien est très intelligent .
+Please open the door !	S'il vous plaît ouvrez la porte !
+What time is it ?	Quelle heure est-il ?
+He wrote a long letter .	Il a écrit une longue lettre .
+We won the game !	Nous avons gagné le match !
+Is she your sister ?	Est-elle ta soeur ?
+I will call you tomorrow .	Je t' appellerai demain .
+That is a bad idea .	C' est une mauvaise idée .
+How much does it cost ?	Combien ça coûte ?
+The sky is blue .	Le ciel est bleu .
+Watch out for the car !	Attention à la voiture !
+Did you finish your homework ?	As-tu fini tes devoirs ?
+I am learning French .	J' apprends le français .
+They are my friends .	Ils sont mes amis .
+Who is that man ?	Qui est cet homme ?
+The food is delicious !	La nourriture est délicieuse !
+She has three cats .	Elle a trois chats .
+Are you ready to go ?	Es-tu prêt à partir ?
+He forgot his keys .	Il a oublié ses clés .
+What a beautiful day !	Quelle belle journée !
+I want to travel the world .	Je veux voyager à travers le monde .
+Is this your pen ?	Est-ce ton stylo ?
+We should leave now .	Nous devrions partir maintenant .
+Do not touch that !	Ne touche pas à ça !
+She sings very well .	Elle chante très bien .
+Where do you live ?	Où habitez-vous ?
+I feel very tired today .	Je me sens très fatigué aujourd'hui .
+Happy birthday to you !	Joyeux anniversaire à toi !
+Can we meet tomorrow ?	Pouvons-nous nous rencontrer demain ?
+I completely agree with you .	Je suis tout à fait d' accord avec vous .
+I like to read books .	J' aime lire des livres .
+She drinks coffee every morning .	Elle boit du café tous les matins .
+We play tennis on weekends .	Nous jouons au tennis le week-end .
+He is sleeping in the bedroom .	Il dort dans la chambre .
+The cat is under the table .	Le chat est sous la table .
+They are cooking dinner .	Ils préparent le dîner .
+I need to buy milk .	Je dois acheter du lait .
+This apple is very sweet .	Cette pomme est très douce .
+My brother plays the guitar .	Mon frère joue de la guitare .
+She wears a red dress .	Elle porte une robe rouge .
+The sun is shining brightly .	Le soleil brille fort .
+It is raining outside .	Il pleut dehors .
+I wash my hands .	Je me lave les mains .
+He closed the window .	Il a fermé la fenêtre .
+The baby is crying .	Le bébé pleure .
+We walk in the park .	Nous nous promenons dans le parc .
+She has a lot of money .	Elle a beaucoup d' argent .
+I am listening to music .	J' écoute de la musique .
+They watch television at night .	Ils regardent la télévision le soir .
+The train arrives at noon .	Le train arrive à midi .
+How old are you ?	Quel âge as-tu ?
+Where is the nearest hospital ?	Où est l' hôpital le plus proche ?
+What are you doing ?	Que fais-tu ?
+Why is he late ?	Pourquoi est-il en retard ?
+Do you like this song ?	Aimes-tu cette chanson ?
+Can you swim ?	Sais-tu nager ?
+Who won the match ?	Qui a gagné le match ?
+Is this your bag ?	Est-ce ton sac ?
+When does the movie start ?	Quand le film commence-t-il ?
+Have you seen my phone ?	As-tu vu mon téléphone ?
+Are they coming to the party ?	Viennent-ils à la fête ?
+Which one do you prefer ?	Lequel préfères-tu ?
+Is it going to rain ?	Va-t-il pleuvoir ?
+How do you spell your name ?	Comment épelez-vous votre nom ?
+What is his profession ?	Quelle est sa profession ?
+Can I borrow your car ?	Puis-je emprunter ta voiture ?
+Where did you buy that ?	Où as-tu acheté ça ?
+Do we have enough time ?	Avons-nous assez de temps ?
+Are you feeling better ?	Te sens-tu mieux ?
+Why are they laughing ?	Pourquoi rient-ils ?
+I am so happy !	Je suis tellement heureux !
+That is wonderful news !	C' est une excellente nouvelle !
+Help me !	Aidez-moi !
+Be careful !	Fais attention !
+I hate this place !	Je déteste cet endroit !
+What a surprise !	Quelle surprise !
+You are amazing !	Tu es incroyable !
+Stop doing that !	Arrête de faire ça !
+Let us go !	Allons-y !
+That is absolutely crazy !	C' est absolument fou !
+I won the lottery !	J' ai gagné à la loterie !
+Do not jump !	Ne saute pas !
+This is incredible !	C' est incroyable !
+Good luck !	Bonne chance !
+Happy new year !	Bonne année !
+I am terrified !	Je suis terrifié !
+She is so angry !	Elle est si en colère !
+Look at him !	Regarde-le !
+I can not believe it !	Je ne peux pas y croire !
+That hurts a lot !	Ça fait très mal !
+I work in a hospital .	Je travaille dans un hôpital .
+She is studying mathematics .	Elle étudie les mathématiques .
+We travelled to Paris last year .	Nous avons voyagé à Paris l' année dernière .
+He is a good teacher .	Il est un bon professeur .
+The meeting starts at nine .	La réunion commence à neuf heures .
+I forgot my passport .	J' ai oublié mon passeport .
+They are learning how to code .	Ils apprennent à coder .
+My flight is delayed .	Mon vol est retardé .
+The hotel is very clean .	L' hôtel est très propre .
+She loves her job .	Elle aime son travail .
+I need to take a break .	Je dois faire une pause .
+Where is the train station ?	Où est la gare ?
+I lost my luggage .	J' ai perdu mes bagages .
+This exam is very difficult .	Cet examen est très difficile .
+He wants to be a doctor .	Il veut être médecin .
+The museum is closed today .	Le musée est fermé aujourd'hui .
+We took a taxi .	Nous avons pris un taxi .
+Please show your ticket .	Veuillez montrer votre billet .
+I am writing an email .	J' écris un e-mail .
+The office is empty .	Le bureau est vide .
+The earth is round .	La terre est ronde .
+Water boils at a hundred degrees .	L' eau bout à cent degrés .
+I have two brothers .	J' ai deux frères .
+She does not eat meat .	Elle ne mange pas de viande .
+The flowers are blooming .	Les fleurs s' épanouissent .
+He speaks three languages .	Il parle trois langues .
+We saw a movie yesterday .	Nous avons vu un film hier .
+I am very hungry .	J' ai très faim .
+It is too expensive .	C' est trop cher .
+The city is very quiet .	La ville est très calme .
+They painted the house blue .	Ils ont peint la maison en bleu .
+I do not remember his name .	Je ne me souviens pas de son nom .
+She found a wallet .	Elle a trouvé un portefeuille .
+We are out of time .	Nous n' avons plus de temps .
+He broke his arm .	Il s' est cassé le bras .
+The bridge is long .	Le pont est long .
+I prefer tea to coffee .	Je préfère le thé au café .
+They built a new hospital .	Ils ont construit un nouvel hôpital .
+The story is interesting .	L' histoire est intéressante .
+Let me check my calendar .	Laissez-moi vérifier mon calendrier .
